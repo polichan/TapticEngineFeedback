@@ -18,7 +18,7 @@ Any Devices with Taptic Engine.
 [UIImpactFeedbackGenerator generateFeedbackWithLightStyle];
 ```
 
-### We have provided with three class methods, choose whichever you want.
+#### We have provided with three class methods, choose whichever you want.
 ```objective-c
 + (void)generateFeedbackWithLightStyle;
 + (void)generateFeedbackWithMediumStyle;
