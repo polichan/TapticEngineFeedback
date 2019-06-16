@@ -7,7 +7,7 @@ One line to generate feedback through Taptic Engine with three diverse feedback 
 Any Devices with Taptic Engine.
 
 ### Usage
-#### Import the .h file in which you want to generate feedback.
+#### Import the .h file in which you want devices to generate feedback.
 
 ```objective-c
 #import "UIImpactFeedbackGenerator+Feedback.h"
